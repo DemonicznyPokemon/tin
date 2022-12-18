@@ -1,4 +1,4 @@
-[![Latest Stable Version](https://img.shields.io/packagist/v/loophp/tin.svg?style=flat-square)](https://packagist.org/packages/loophp/tin)
+    [![Latest Stable Version](https://img.shields.io/packagist/v/loophp/tin.svg?style=flat-square)](https://packagist.org/packages/loophp/tin)
  [![GitHub stars](https://img.shields.io/github/stars/loophp/tin.svg?style=flat-square)](https://packagist.org/packages/loophp/tin)
  [![Total Downloads](https://img.shields.io/packagist/dt/loophp/tin.svg?style=flat-square)](https://packagist.org/packages/loophp/tin)
  [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/loophp/tin/Continuous%20Integration?style=flat-square)](https://github.com/loophp/tin/actions)
